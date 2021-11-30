@@ -1,5 +1,8 @@
 # Cryptocurrencies
 
+![image](https://user-images.githubusercontent.com/83261520/143970227-06ba2cef-2692-4c45-a8a0-a9df9d38cfef.png)
+
+
 ## Overview
 
 The purpose of this project is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system.
